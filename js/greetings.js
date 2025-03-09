@@ -4,7 +4,7 @@ const greeting = document.querySelector("#greeting");
 const logoutForm = document.querySelector("#logout-form");
 const logoutButton = logoutForm.querySelector("button");
 
-// 브랜치 연습
+// n1에서 브랜치 연습~~
 const HIDDEN_CLASSNAME = "hidden";
 const USERNAME_KEY = "username";
 function onLoginSubmit(event) {
